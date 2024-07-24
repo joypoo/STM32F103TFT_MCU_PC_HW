@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindMFC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Owner/Documents/Projects/Mine/others/STM32F103_TFT/PrgW25Q32(VS2022)/PrgFlash/CMakeFiles/3.29.3/CMakeCCompiler.cmake
+C:/Users/Owner/Documents/Projects/Mine/others/STM32F103_TFT/PrgW25Q32(VS2022)/examples/CommMFC/CMakeLists.txt
