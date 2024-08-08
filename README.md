@@ -8,3 +8,4 @@
     基于M3 ARM核的STM32F103C8T6+IPS160*80DOT点阵屏+W25Q32+充放电模块 
 上位机：
     基于VS2022(VC++)+MFC创建的桌面程序
+如遇github.com访问网速不畅可多次重试或访问https://gitee.com/joypoo1进行clone、pull
