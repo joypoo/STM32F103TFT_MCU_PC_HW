@@ -1,0 +1,70 @@
+[2024-07-10 12:35:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 12:38:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 13:05:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 17:12:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 17:22:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 17:24:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 17:27:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:20:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:27:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:33:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:34:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:36:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:37:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:38:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-10 22:41:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 14:38:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 15:42:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 16:40:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 16:45:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 16:54:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 16:56:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 17:05:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 17:07:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 17:39:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 17:45:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-21 17:55:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 16:38:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 16:49:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 16:54:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 16:57:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 16:59:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:08:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:10:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:14:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:16:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:18:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:23:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 17:26:日志记录不属免费功能,请注册支持作者改进软件
+[2024-07-22 17:30:日志记录不属免费功能,请注册支持作者改进软件
+[2024-07-22 22:34:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 22:36:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 22:42:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 22:44:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 22:46:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 22:48:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-22 22:57:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-30 16:12:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-07-30 16:23:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\OBJ\LCD.hex
+[2024-08-02 22:49:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-02 23:00:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-02 23:08:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-02 23:26:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-04 23:17:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:04:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:22:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:23:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:25:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:31:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:43:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:50:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 13:52:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 14:03:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 14:07:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 14:16:Program Success:57FF6F066687575025071067 C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\PrgMCU\OBJ\LCD.hex
+[2024-08-05 14:20:日志记录不属免费功能,请注册支持作者改进软件
+[2024-08-05 14:23:日志记录不属免费功能,请注册支持作者改进软件
+[2024-08-05 14:31:日志记录不属免费功能,请注册支持作者改进软件
+[2024-08-05 14:33:日志记录不属免费功能,请注册支持作者改进软件
+[2024-08-05 14:40:日志记录不属免费功能,请注册支持作者改进软件
+[2024-08-05 14:51:日志记录不属免费功能,请注册支持作者改进软件

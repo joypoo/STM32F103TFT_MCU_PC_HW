@@ -1,0 +1,3 @@
+C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\STM32F103TFT_MCU_PC_HW\PrgW25Q32(VS2022)\PrgW25Q32\x64\Debug\ZXiGate.vcxproj.MdMergeInputs.cache
+C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\STM32F103TFT_MCU_PC_HW\PrgW25Q32(VS2022)\PrgW25Q32\x64\Debug\ZXiGate.vcxproj.cppwinrt_plat.cache
+C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\STM32F103TFT_MCU_PC_HW\PrgW25Q32(VS2022)\PrgW25Q32\x64\Debug\ZXiGate.vcxproj.cppwinrt_comp.cache

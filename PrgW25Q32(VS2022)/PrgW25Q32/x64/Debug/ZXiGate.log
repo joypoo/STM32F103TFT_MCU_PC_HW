@@ -1,0 +1,12 @@
+﻿  ZXiGate.cpp
+  ZXiGateDlg.cpp
+  SerialPort.cpp
+  SerialPortBase.cpp
+  SerialPortInfo.cpp
+  SerialPortInfoBase.cpp
+  SerialPortInfoWinBase.cpp
+  SerialPortWinBase.cpp
+  stdafx.cpp
+  正在生成代码...
+C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\STM32F103TFT_MCU_PC_HW\PrgW25Q32(VS2022)\ZXiGateDlg.cpp(643,1): warning C4715: “CZXiGateDlg::OnNcHitTest”: 不是所有的控件路径都返回值
+  ZXiGate.vcxproj -> C:\Users\Owner\Documents\Projects\Mine\others\STM32F103_TFT\STM32F103TFT_MCU_PC_HW\PrgW25Q32(VS2022)\x64\Debug\PrgW25Q32.exe
